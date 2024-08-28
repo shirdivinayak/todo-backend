@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2",
+    "msql": "^1.0.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0",
+    "promise-mysql": "^5.2.0",
+    "promise-mysql2": "^1.0.0",
+    "restify": "^11.1.0",
+    "restify-errors": "^8.0.2",
+    "restify-router": "^0.6.2",
+    "Router": "^2.1.0",
+    "winston": "^3.14.2",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "name": "to_do-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

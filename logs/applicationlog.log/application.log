@@ -1,0 +1,571 @@
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi123|service.js|loginUser|loginUser function started execution
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-27 15:13:51|INFO|Gapblue|1|shirdi123|service.js|loginUser|function ended
+2024-08-27 15:14:39|INFO|Gapblue|1|newuser|service.js|loginUser|loginUser function started execution
+2024-08-27 15:14:39|INFO|Gapblue|1|newuser|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 15:14:39|INFO|Gapblue|1|newuser|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 15:14:39|INFO|Gapblue|1|newuser|db_connector|openDbConnection|connection established
+2024-08-27 15:14:39|INFO|Gapblue|1|newuser|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 15:14:39|INFO|Gapblue|1|newuser|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 15:14:39|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-27 15:14:39|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-27 15:14:39|INFO|Gapblue|1|newuser|service.js|loginUser|Login successful
+2024-08-27 15:14:39|INFO|Gapblue|1|newuser|service.js|loginUser|function ended
+2024-08-27 15:14:59|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:14:59|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:14:59|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:14:59|ERROR|Gapblue|1|new_user@gmail.com|AuthenticationHandler|handleTokenValidation|Error during token validation
+2024-08-27 15:14:59|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:16:54|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:16:54|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:16:54|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:16:54|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|Error during token validation
+2024-08-27 15:16:54|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:17:50|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:18:11|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:18:39|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:18:40|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|Error during token validation
+2024-08-27 15:18:40|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:23:07|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:23:07|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:23:07|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:23:07|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|Error during token validation
+2024-08-27 15:23:07|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:23:10|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:23:10|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:23:10|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:23:10|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|Error during token validation
+2024-08-27 15:23:10|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:23:16|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:23:16|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:23:16|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:23:16|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|Error during token validation
+2024-08-27 15:23:16|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:24:42|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:24:42|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:24:42|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:24:42|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|Error during token validation
+2024-08-27 15:24:42|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:35:48|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:35:48|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:35:48|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:35:48|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|user mismatch for the token
+2024-08-27 15:35:48|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:46:32|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:46:32|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:46:32|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:46:32|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|Error during token validation
+2024-08-27 15:46:32|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:46:32|INFO|Gapblue|1|undefined|service.js|createTask|createTask function ended
+2024-08-27 15:46:43|INFO|Gapblue|1|undefined|service.js|loginUser|loginUser function started execution
+2024-08-27 15:46:43|ERROR|Gapblue|1|undefined|service.js|loginUser|Username and password are required
+2024-08-27 15:46:43|INFO|Gapblue|1|undefined|service.js|loginUser|function ended
+2024-08-27 15:47:08|INFO|Gapblue|1|shirdi123|service.js|loginUser|loginUser function started execution
+2024-08-27 15:47:08|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 15:47:08|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 15:47:09|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-27 15:47:09|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 15:47:09|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 15:47:09|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-27 15:47:09|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-27 15:47:09|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-27 15:47:09|INFO|Gapblue|1|shirdi123|service.js|loginUser|function ended
+2024-08-27 15:47:22|INFO|Gapblue|1|undefined|service.js|loginUser|loginUser function started execution
+2024-08-27 15:47:22|ERROR|Gapblue|1|undefined|service.js|loginUser|Username and password are required
+2024-08-27 15:47:22|INFO|Gapblue|1|undefined|service.js|loginUser|function ended
+2024-08-27 15:47:29|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:47:29|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:47:29|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:47:29|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:47:29|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function started execution
+2024-08-27 15:47:29|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function ended
+2024-08-27 15:47:45|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:47:45|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:47:45|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:47:45|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:47:45|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function started execution
+2024-08-27 15:47:45|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function ended
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function started execution
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|Started execution of executeTransaction function
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|db_connector|openDbConnection|connection established
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|Transaction committed successfully
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|executeTransaction function ended
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|service.js|createTask|Task created successfully
+2024-08-27 15:47:53|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function ended
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi123|service.js|loginUser|loginUser function started execution
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-27 16:26:01|INFO|Gapblue|1|shirdi123|service.js|loginUser|function ended
+2024-08-27 16:26:15|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:26:15|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:26:15|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:26:15|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:26:15|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function started execution
+2024-08-27 16:26:15|ERROR|Gapblue|1|shirdi@123|service.js|createTask|Internal server error
+2024-08-27 16:26:15|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function ended
+2024-08-27 16:26:56|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:27:11|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi123|service.js|loginUser|loginUser function started execution
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-27 16:27:27|INFO|Gapblue|1|shirdi123|service.js|loginUser|function ended
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function started execution
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|Started execution of executeTransaction function
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|db_connector|openDbConnection|connection established
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:27:44|ERROR|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|Transaction rolled back due to error: Error: ER_DUP_ENTRY: Duplicate entry 'test' for key 'task_table.unique_task_name'
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|executeTransaction function ended
+2024-08-27 16:27:44|ERROR|Gapblue|1|shirdi@123|service.js|createTask|Task name already exists
+2024-08-27 16:27:44|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function ended
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function started execution
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|Started execution of executeTransaction function
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|db_connector|openDbConnection|connection established
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|Transaction committed successfully
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|executeTransaction function ended
+2024-08-27 16:27:57|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function ended
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function started execution
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|Started execution of executeTransaction function
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|db_connector|openDbConnection|connection established
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:27:59|ERROR|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|Transaction rolled back due to error: Error: ER_DUP_ENTRY: Duplicate entry 'test1' for key 'task_table.unique_task_name'
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|db_operation.js|executeTransaction|executeTransaction function ended
+2024-08-27 16:27:59|ERROR|Gapblue|1|shirdi@123|service.js|createTask|Task name already exists
+2024-08-27 16:27:59|INFO|Gapblue|1|shirdi@123|service.js|createTask|createTask function ended
+2024-08-27 16:41:46|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:41:46|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|Token is required
+2024-08-27 16:41:46|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:41:56|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:41:56|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:41:56|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:41:56|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|user mismatch for the token
+2024-08-27 16:41:56|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:42:07|INFO|Gapblue|1|newuser|service.js|loginUser|loginUser function started execution
+2024-08-27 16:42:07|INFO|Gapblue|1|newuser|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 16:42:07|INFO|Gapblue|1|newuser|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:42:07|INFO|Gapblue|1|newuser|db_connector|openDbConnection|connection established
+2024-08-27 16:42:07|INFO|Gapblue|1|newuser|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:42:07|INFO|Gapblue|1|newuser|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 16:42:07|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-27 16:42:07|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-27 16:42:07|INFO|Gapblue|1|newuser|service.js|loginUser|Login successful
+2024-08-27 16:42:07|INFO|Gapblue|1|newuser|service.js|loginUser|function ended
+2024-08-27 16:43:26|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:43:26|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:43:26|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:43:26|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:43:26|INFO|Gapblue|1|new_user@gmail.com|service.js|assignTask|Started execution assignTask
+2024-08-27 16:43:26|INFO|Gapblue|1|undefined|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 16:43:26|INFO|Gapblue|1|undefined|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:43:26|INFO|Gapblue|1|undefined|db_connector|openDbConnection|connection established
+2024-08-27 16:43:26|INFO|Gapblue|1|undefined|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:43:26|ERROR|Gapblue|1|undefined|db_operation.js|executeQuery|error:Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`taskdatabase`.`user_task_mapping`, CONSTRAINT `user_task_mapping_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `task_table` (`task_id`))
+2024-08-27 16:43:26|INFO|Gapblue|1|undefined|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 16:43:26|ERROR|Gapblue|1|undefined|undefined|undefined|error:TypeError: Cannot read properties of undefined (reading 'affectedRows')
+2024-08-27 16:52:07|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:52:07|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:52:08|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:52:08|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|user mismatch for the token
+2024-08-27 16:52:08|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi123|service.js|loginUser|loginUser function started execution
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-27 16:52:21|INFO|Gapblue|1|shirdi123|service.js|loginUser|function ended
+2024-08-27 16:52:35|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:52:35|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:52:35|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:52:35|ERROR|Gapblue|1|shirdi@123|AuthenticationHandler|handleTokenValidation|Error during token validation
+2024-08-27 16:52:35|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:52:41|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:52:41|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:52:41|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:52:41|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:52:41|INFO|Gapblue|1|shirdi@123|service.js|assignTask|Started execution assignTask
+2024-08-27 16:52:41|INFO|Gapblue|1|undefined|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 16:52:41|INFO|Gapblue|1|undefined|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:52:41|INFO|Gapblue|1|undefined|db_connector|openDbConnection|connection established
+2024-08-27 16:52:41|INFO|Gapblue|1|undefined|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:52:41|ERROR|Gapblue|1|undefined|db_operation.js|executeQuery|error:Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`taskdatabase`.`user_task_mapping`, CONSTRAINT `user_task_mapping_ibfk_1` FOREIGN KEY (`task_id`) REFERENCES `task_table` (`task_id`))
+2024-08-27 16:52:41|INFO|Gapblue|1|undefined|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 16:52:41|ERROR|Gapblue|1|undefined|undefined|undefined|error:TypeError: Cannot read properties of undefined (reading 'affectedRows')
+2024-08-27 16:54:26|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:54:27|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:54:27|INFO|Gapblue|1|null|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:54:27|ERROR|Gapblue|1|null|AuthenticationHandler|handleTokenValidation|user mismatch for the token
+2024-08-27 16:54:27|INFO|Gapblue|1|null|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:54:37|INFO|Gapblue|1|newuser|service.js|loginUser|loginUser function started execution
+2024-08-27 16:54:37|INFO|Gapblue|1|newuser|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 16:54:37|INFO|Gapblue|1|newuser|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:54:37|INFO|Gapblue|1|newuser|db_connector|openDbConnection|connection established
+2024-08-27 16:54:37|INFO|Gapblue|1|newuser|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:54:37|INFO|Gapblue|1|newuser|db_operation.js|executeQuery|executeQuery function ended
+2024-08-27 16:54:37|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-27 16:54:37|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-27 16:54:37|INFO|Gapblue|1|newuser|service.js|loginUser|Login successful
+2024-08-27 16:54:37|INFO|Gapblue|1|newuser|service.js|loginUser|function ended
+2024-08-27 16:54:52|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|handleTokenValidation|Started execution of handleTokenValidation function
+2024-08-27 16:54:52|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|validateToken|Started execution of validateToken function
+2024-08-27 16:54:52|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|validateToken|validateToken function ended
+2024-08-27 16:54:52|INFO|Gapblue|1|new_user@gmail.com|AuthenticationHandler.js|handleTokenValidation|handleTokenValidation function ended
+2024-08-27 16:54:52|INFO|Gapblue|1|new_user@gmail.com|service.js|assignTask|Started execution assignTask
+2024-08-27 16:54:52|INFO|Gapblue|1|undefined|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-27 16:54:52|INFO|Gapblue|1|undefined|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-27 16:54:52|INFO|Gapblue|1|undefined|db_connector|openDbConnection|connection established
+2024-08-27 16:54:52|INFO|Gapblue|1|undefined|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-27 16:54:52|INFO|Gapblue|1|undefined|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi123|service.js|loginUser|loginUser function started execution
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 09:55:30|INFO|Gapblue|1|shirdi123|service.js|loginUser|function ended
+2024-08-28 10:30:43|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:31:09|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:31:09|ERROR|Gapblue|1|shirdi123|service.js|loginUser|Username and password are required
+2024-08-28 10:31:09|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:31:12|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:31:12|ERROR|Gapblue|1|shirdi123|service.js|loginUser|Username and password are required
+2024-08-28 10:31:12|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:33:14|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:34:23|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:34:38|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:34:38|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:34:38|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:34:38|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:34:38|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:34:45|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:34:45|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:34:48|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:34:51|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:35:01|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:35:01|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:35:01|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:35:01|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:35:01|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:35:01|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:35:01|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:35:01|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:35:01|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:35:01|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:35:18|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:35:18|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:35:18|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:35:18|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:35:18|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:35:18|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:35:18|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:35:18|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:35:18|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:35:18|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:35:52|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:35:52|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:35:52|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:35:52|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:35:52|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:35:52|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:35:52|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:35:52|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:35:52|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:35:52|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:36:14|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:36:16|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:36:16|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:36:16|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:36:16|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:36:16|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:36:37|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:36:52|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:36:53|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:36:53|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:37:50|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:37:53|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:37:53|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:37:54|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:37:54|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:37:54|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:38:01|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:38:01|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:38:02|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:38:14|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:38:44|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:38:56|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:38:56|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:38:56|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:38:56|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:38:56|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:39:33|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:39:33|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:39:33|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:39:33|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:39:33|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:39:33|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:39:33|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:39:33|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:39:33|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:39:33|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:39:50|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:39:53|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:39:53|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:39:53|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:39:53|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:39:53|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:41:16|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:41:16|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:41:16|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:41:16|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:41:16|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:41:16|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:41:16|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:41:16|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:41:16|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:41:16|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:41:54|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:42:21|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:42:21|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:42:22|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:42:22|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:43:08|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:43:08|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:43:08|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:43:09|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:43:09|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:43:09|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:43:09|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:43:09|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:43:09|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:43:09|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:44:06|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:44:12|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:44:12|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:44:12|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:44:12|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:44:12|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:44:17|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:44:17|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:44:22|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:44:40|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:45:06|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:45:06|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:45:06|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:45:06|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:45:06|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:45:06|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:45:06|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:45:06|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:45:06|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:45:06|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:45:06|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:45:23|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:45:23|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:45:23|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:45:24|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:45:24|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:45:24|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:45:24|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:45:24|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:45:24|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:45:24|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:45:24|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:46:07|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:46:07|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:46:07|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:46:08|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:46:08|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:46:08|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:46:08|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:46:08|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:46:14|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:46:18|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:46:20|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:46:46|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:46:46|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:46:46|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:46:46|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:46:46|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:47:16|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:47:16|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:47:16|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:47:16|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:47:16|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:47:16|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:47:16|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:47:16|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:47:16|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:47:16|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:47:16|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:47:34|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:47:34|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:47:34|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:47:34|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:47:34|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:47:34|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:48:35|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:48:35|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:48:35|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:48:35|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:48:35|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:48:35|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:49:08|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:49:08|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:49:18|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:49:21|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:49:25|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:50:01|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:50:01|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:50:01|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:50:01|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:50:01|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:50:01|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:50:23|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:50:23|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:50:25|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:50:27|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:50:29|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:51:51|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:51:51|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:51:51|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:51:51|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:51:51|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:51:51|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:51:53|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:51:53|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:51:54|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:51:56|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:51:57|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:52:17|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:52:17|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:52:17|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:52:17|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:52:17|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:52:17|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:52:19|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:52:19|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:52:20|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:52:22|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:52:23|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:53:01|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:53:01|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:53:01|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:53:01|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:53:01|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:53:01|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:53:02|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:53:02|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:53:02|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:53:02|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:53:02|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:53:15|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:53:15|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:53:15|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:53:15|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:53:15|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:53:15|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:53:15|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:53:15|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:53:15|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:53:15|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:53:15|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:54:30|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:54:30|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:54:30|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:54:30|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:54:30|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:54:30|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:54:30|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:54:30|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:54:30|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:54:30|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:54:30|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:54:52|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:54:52|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:54:52|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:54:52|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:54:52|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:54:52|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:54:52|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:54:52|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:54:52|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:54:52|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:54:52|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:55:09|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:55:09|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:55:09|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:55:09|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:55:09|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:55:09|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:55:09|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:55:09|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:55:09|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:55:09|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:55:09|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:56:02|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:56:02|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:56:02|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:56:02|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:56:02|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:56:02|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:56:02|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:56:02|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:56:05|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:56:09|INFO|Gapblue|1|username|service.js|loginUser|function ended
+2024-08-28 10:56:10|ERROR|Gapblue|1|undefined|router.js|/login|Error:ReferenceError: username is not defined
+2024-08-28 10:56:32|INFO|Gapblue|1|username|service.js|loginUser|loginUser function started execution
+2024-08-28 10:56:32|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|Started execution of executeQuery function
+2024-08-28 10:56:32|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|openDbConnection function started execution
+2024-08-28 10:56:32|INFO|Gapblue|1|shirdi123|db_connector|openDbConnection|connection established
+2024-08-28 10:56:32|INFO|Gapblue|1|shirdi123|db_connector.js|openDbConnection|oprnDbConnection function ended
+2024-08-28 10:56:32|INFO|Gapblue|1|shirdi123|db_operation.js|executeQuery|executeQuery function ended
+2024-08-28 10:56:33|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|Started execution of generateToken function
+2024-08-28 10:56:33|INFO|Gapblue|1|shirdi@123|AuthenticationHandler.js|generateToken|generateToken function ended
+2024-08-28 10:56:33|INFO|Gapblue|1|shirdi123|service.js|loginUser|Login successful
+2024-08-28 10:56:33|INFO|Gapblue|1|username|service.js|loginUser|function ended

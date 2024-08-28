@@ -1,0 +1,10 @@
+
+{
+"tenant_id":"1",
+"tenant_name":"Gapblue",
+"JWT_SECRET":"ba23d0da20aacdbdecb4202db43b9ae4f4c7a6bdb9b0349a3b65e7d1ed677d6d",
+"applicationlogpath":"logs/applicationlog.log",
+"meteringlogpath":"logs/metering/meteringlog.log",
+"email":"email@gmail.com"
+
+}
